@@ -1,10 +1,10 @@
 # PowerShell Advanced Funcitons
-Code repository for the session aka.ms/mark/psaf 
+Code repository for the session https://aka.ms/mark/psaf 
 
-Please leave feedback aka.ms/mark/psaf/voice
+Please leave feedback https://aka.ms/mark/psaf/voice
 
 # Resources
-aka.ms/mark/psaf
+https://aka.ms/mark/psaf
 
 Windows PowerShell: Writing Cmdlets in Script: https://technet.microsoft.com/en-us/library/ff677563.aspx
 About Functions Advanced Methods: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_methods?view=powershell-5.1
